@@ -1,2 +1,2 @@
-# data-challenge-data
-Data for the Capital One Data Analyst Data Challenge
+# Data challenge round submission
+Capital One Data Analyst Data Challenge
